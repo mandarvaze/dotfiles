@@ -1,5 +1,5 @@
 Why?
-===
+---
 Each time I start using a new linux box , it used to take me some time
 to adjust the work environment to my liking.
 At first I tried keeping these files on Dropbox, but Dropbox is blocked
@@ -9,8 +9,8 @@ on a machine they provided, I couldn't access my customizations.
 github seemed like a good idea so that others too can reuse by setup if needed.
 
 Current Setup
-=============
+-------------
 
-Shell : zsh (Shifted recently from bash)
-Editor : Vim
-tmux : Terminal Multiplexer, Must have when you work a lot with remote systems.
+ * Shell : zsh , Shifted recently from bash
+ * Editor : Vim
+ * tmux : Terminal Multiplexer, Must have when working with remote systems.
