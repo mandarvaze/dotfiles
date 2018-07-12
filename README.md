@@ -14,3 +14,12 @@ Current Setup
  * Shell : zsh , Shifted recently from bash
  * Editor : Vim
  * tmux : Terminal Multiplexer, Must have when working with remote systems.
+
+Doom Config
+-----------
+
+`~/doom-emacs` contains the doom emacs cloned from the repo.
+
+`~/doom-config` has the configuration.
+
+I've setup DOOMDIR to point to `~/doom-config`
